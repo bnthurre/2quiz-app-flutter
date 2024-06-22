@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_app/StartScreen.dart';
+import 'package:quiz_app/start_screen.dart';
 class GradientCon extends StatelessWidget {
   const GradientCon(this.color1, this.color2, {super.key});
   final Color color1;
